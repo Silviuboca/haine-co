@@ -7,7 +7,6 @@
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
     "dom": "0.0.3",
-    "eslint": "^7.1.0",
     "firebase": "^7.14.6",
     "lodash": "^4.17.15",
     "node-sass": "^4.14.1",
